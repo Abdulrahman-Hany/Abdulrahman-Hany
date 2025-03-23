@@ -2,7 +2,7 @@
 <h3 align="center">I'm a front-end developer from Egypt with a passion for continuous learning</h3>
 
 ## 🧐 About
-A second-year student at Zagazig University, Department of Computer Science <br>
+A third-year student at Zagazig University, Department of Computer Science <br>
 I'm learning to code. I am always ready to learn new techniques and push myself to improve daily.
 
 
